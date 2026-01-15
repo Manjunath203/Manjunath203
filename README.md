@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Manjunath 👋
 
-<!--
-**Manjunath203/Manjunath203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | Full-Stack Developer | Cloud-Native & AI Enthusiast  
+💼 Former Support Intern @ Caze Labs (Cloud-Native Systems)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a passionate software developer with hands-on experience in:
+- Full-stack web development
+- Cloud-native systems (Docker Swarm, Keycloak, Ansible)
+- AI-powered application development
+
+I enjoy building real-world scalable systems and learning modern cloud & AI technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, JavaScript, C++  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express, Flask  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Cloud & DevOps:** Docker, Docker Swarm, Git, Ansible  
+**Auth & Tools:** Keycloak, Clerk, Stripe, Postman
+
+---
+
+## 📌 Featured Projects
+
+🚀 AI-Powered URL to Video Generator  
+📚 Full-Stack AI Study Material Generator  
+
+---
+
+## 📫 Contact
+
+📧 Email: manjunathd20302@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/manjunathd20
