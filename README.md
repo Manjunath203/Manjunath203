@@ -37,5 +37,7 @@ I enjoy building real-world scalable systems and learning modern cloud & AI tech
 ## 📫 Contact
 
 📧 Email: manjunathd20302@gmail.com  
+
 🔗 LinkedIn: https://www.linkedin.com/in/manjunathd20
+
 🐙 GitHub: https://github.com/Manjunath203
