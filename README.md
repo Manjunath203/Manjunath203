@@ -2,108 +2,149 @@
 <h3 align="center">MCA Student | Full-Stack Developer | AI / Cloud-Native Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:manjunathd20302@gmail.com">Email</a> •
-  <a href="https://manjunath203.github.io/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/manjunathd20">LinkedIn</a> •
-  <a href="https://github.com/Manjunath203">GitHub</a>
+  <a href="https://github.com/Manjunath203">
+    <img src="https://komarev.com/ghpvc/?username=Manjunath203&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/Manjunath203?tab=followers">
+    <img src="https://img.shields.io/github/followers/Manjunath203?label=Followers&style=social" alt="followers" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:manjunathd20302@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manjunathd20"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://manjunath203.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://github.com/Manjunath203"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 MCA student passionate about building practical software projects
-- 💻 Interested in **Full-Stack Development, AI Engineering, Cloud, and Backend Systems**
-- ☁️ Worked on **cloud-native and DevOps-based projects**
-- 🚀 I enjoy building real-world apps using **React, Next.js, Node.js, PostgreSQL, and AI integrations**
-- 🌱 Currently improving my skills in **Cloud, DevOps, scalable backend systems, and AI-based applications**
+- 🎓 MCA student passionate about software development and real-world problem solving
+- 💻 Interested in **Full-Stack Development, AI Engineering, Cloud, DevOps, and Backend Systems**
+- ☁️ Worked on **cloud-native and backend-focused projects**
+- 🛠️ Built projects using **React, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, Docker, and AI integrations**
+- 🌱 Currently learning more about **scalable systems, DevOps automation, and production-ready backend development**
 - 📍 Bengaluru, India
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 What I’m Working On
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- Full-stack projects with modern web technologies
+- AI-powered applications and automation workflows
+- Cloud-native deployment and infrastructure concepts
+- Backend development and API design
+- Strengthening problem-solving and developer fundamentals
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+## 🛠️ Tech Stack
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-### Tools & Platforms
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### ☁️ Cloud / DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manjunath203&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manjunath203&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath203&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath203&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://streak-stats.demolab.com?user=Manjunath203&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manjunath203&theme=tokyonight" alt="github streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjunath203&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manjunath203&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. AI URL to Video Generator
-🔗 [View Project](https://github.com/Manjunath203/ai-url-to-video-generator)
+### 1) AI URL to Video Generator
+🔗 [Repository](https://github.com/Manjunath203/ai-url-to-video-generator)
 
-- Built a full-stack AI system that converts article URLs into narrated videos
-- Added summarization, AI image generation, text-to-speech, subtitles, and automated video pipeline
-- Tech: **React, Node.js, Express.js, Tailwind CSS, FFmpeg**
+- Converts article URLs into narrated videos
+- Includes summarization, AI-generated visuals, text-to-speech, subtitles, and automated workflow
+- Built with **React, Node.js, Express.js, Tailwind CSS, FFmpeg**
 
-### 2. My GitHub Profile
-🔗 [View GitHub](https://github.com/Manjunath203)
+### 2) Portfolio Website
+🔗 [Portfolio](https://manjunath203.github.io/)
 
-- Explore my repositories, projects, and learning journey
-- Includes work in full-stack, AI, cloud, and backend development
-
-### 3. Portfolio Website
-🔗 [View Portfolio](https://manjunath203.github.io/)
-
-- Personal portfolio showcasing my profile, projects, and skills
+- Personal website to showcase my projects, skills, and profile
 - Built to present my developer journey professionally
+
+### 3) GitHub Projects
+🔗 [Explore My Repositories](https://github.com/Manjunath203?tab=repositories)
+
+- Collection of projects across full-stack, AI, cloud, and backend development
+- Continuously updated as I learn and build more
 
 ---
 
 ## 💼 Experience
 
 ### Cloud-Native / Software Development Intern
-- Worked on cloud-native and backend-focused tasks
-- Supported deployment, authentication, and troubleshooting workflows
-- Gained practical exposure to **Docker Swarm, Keycloak, Ansible, Flask APIs, and production support**
+- Worked on backend and cloud-native tasks
+- Supported deployment, authentication, access control, and troubleshooting workflows
+- Used **Docker Swarm, Keycloak, Ansible, Flask APIs, and production support practices**
 
 ---
 
@@ -118,33 +159,9 @@
 
 ## 🎯 Current Focus
 
-- Full-Stack Development
-- AI-powered Applications
-- Cloud-Native Systems
-- DevOps & Infrastructure Automation
-- Backend Engineering
-
----
-
-## 🧠 Skills Snapshot
-
-| I Have | Learning | Exploring |
-|---|---|---|
-| Python, JavaScript, C++, React, Next.js, Node.js, Express.js, PostgreSQL, MySQL, MongoDB | Docker, Docker Swarm, Ansible, Keycloak, Cloud-native deployments | AI Engineering, Data Engineering, scalable backend systems |
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:manjunathd20302@gmail.com">📧 Email</a><br>
-  <a href="https://manjunath203.github.io/">🌐 Portfolio</a><br>
-  <a href="https://www.linkedin.com/in/manjunathd20">💼 LinkedIn</a><br>
-  <a href="https://github.com/Manjunath203">💻 GitHub</a>
-</p>
-
----
-
-<p align="center">
-  <i>Building, learning, and growing one project at a time 🚀</i>
-</p>
+```text
+Full-Stack Development
+AI-Powered Applications
+Cloud-Native Systems
+DevOps & Infrastructure Automation
+Backend Engineering
