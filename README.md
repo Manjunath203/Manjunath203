@@ -95,7 +95,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manjunath203&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath203&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath203&layout=compact&theme=tokyonight&hide=html,css,scss&langs_count=8&custom_title=Most%20Used%20Languages" height="170" />
 </p>
 
 <p align="center">
