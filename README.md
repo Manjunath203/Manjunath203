@@ -108,11 +108,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manjunath203&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+- Full-Stack Development
+- AI Projects
+- Cloud-Native Learning
+- Backend Engineering
+- DevOps Tools
 
 ---
 
