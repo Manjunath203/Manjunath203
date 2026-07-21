@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manjunath D</h1>
-<h3 align="center">MCA Student | Full-Stack Developer | AI / Cloud-Native Enthusiast</h3>
+<h3 align="center">MCA Graduate | Full-Stack Developer | AI / Cloud-Native Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Manjunath203">
@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 🎓 MCA student passionate about software development and real-world problem solving
+- 🎓 MCA graduate passionate about software development and real-world problem solving
 - 💻 Interested in **Full-Stack Development, AI Engineering, Cloud, DevOps, and Backend Systems**
 - ☁️ Worked on **cloud-native and backend-focused projects**
 - 🛠️ Built projects using **React, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, Docker, and AI integrations**
