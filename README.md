@@ -143,6 +143,11 @@
 
 ## 💼 Experience
 
+### Software Development Intern
+- Built an Authentication & Authorization service in Go using Keycloak, OIDC/OAuth2, JWT, and gRPC.
+- Implemented tenant-scoped RBAC using SpiceDB and designed a separate Resource Server for secure protected data access.
+- Added audit logging for authentication and authorization events while maintaining and debugging production services.
+
 ### Cloud-Native / Software Development Intern
 - Worked on backend and cloud-native tasks
 - Supported deployment, authentication, access control, and troubleshooting workflows
